@@ -5,7 +5,7 @@ Developer/Product Manager
 -------------------------
 
 * 🌍  I'm based in New Jersey
-* 🧠  I'm learning Remix
+* 🧠  Working on Web Technologies 
 * 🤝  I'm open to collaborating on Front End projects
 * ⚡  Speak Albanian, Italian, Korean
 
